@@ -2,7 +2,7 @@
 
 # Prime-Flix - Plataforma de Filmes
 
-Este é um projeto básico/intermediário de uma plataforma de filmes chamada **Prime-Flix**. A aplicação exibe os 10 primeiros filmes em cartaz e permite que o usuário veja detalhes sobre o filme, como resumo, nota e também assista ao próprio filme.
+Este é um projeto básico/intermediário de uma plataforma de filmes chamada Prime-Flix. A aplicação foi desenvolvida utilizando **React** e exibe os 10 primeiros filmes em cartaz. O usuário pode visualizar detalhes sobre o filme, como resumo, nota e também assistir ao trailer ou ao próprio filme.
 
 ## Funcionalidades
 
